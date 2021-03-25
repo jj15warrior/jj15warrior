@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jj15warrior
 - 👀 I’m interested in hacking, back-end programming in c++
-- 💞️ I’m looking to collaborate on ransomware in c++
 - 📫 How to reach me? jj15_warrior#2165
 
 <!---
