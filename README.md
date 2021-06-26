@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @jj15warrior
-- 👀 I’m interested in hacking, back-end programming in c++
-- 📫 How to reach me? jj15_warrior#2165
+- � Hi, I’m jj15warrior
+- �How to reach me? jj15_warrior#2165
 
 <!---
 jj15warrior/jj15warrior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
